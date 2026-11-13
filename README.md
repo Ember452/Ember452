@@ -45,26 +45,6 @@ I'm **Ember** (`Ember452`), a developer interested in **agents and frameworks**,
 - **Small kernel, pluggable policy** — keep the core readable.
 - **Durable** — sessions should survive restarts.
 
-## 🚀 Featured Projects
-
-<a href="https://github.com/Ember452/baldric">
-  <img src="https://opengraph.githubassets.com/1/Ember452/baldric" alt="baldric" width="100%" />
-</a>
-
-**baldric** — A readable coding-agent harness you can study, extend, and run in the terminal.
-
-`Python` `Textual` `OpenAI` `CLI`
-
-<br/>
-
-<a href="https://github.com/Ember452/questor">
-  <img src="https://opengraph.githubassets.com/1/Ember452/questor" alt="questor" width="100%" />
-</a>
-
-**questor** — A local-first agent harness built around durable state, pluggable policy, and BYOM.
-
-`Python` `Tauri v2` `LiteLLM` `Event Sourcing`
-
 ## 🐍 Contribution Snake
 
 <div align="center">
