@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=ZhenHao%20Jiao&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20local-first%20agent%20harnesses&descAlignY=58&descSize=16" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Ember&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20local-first%20agent%20harnesses&descAlignY=58&descSize=16" width="100%" alt="Header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Agent+Harness+Builder;Python+%C2%B7+TypeScript+%C2%B7+Rust;Local-first+%26+Event-sourced;Always+Shipping" alt="Typing SVG" />
 
@@ -18,14 +18,14 @@
 
 ## 👋 About
 
-I'm **ZhenHao Jiao** (`Ember452`), a builder focused on **agent harnesses** — the layer that turns an LLM into a reliable, inspectable worker.
+I'm **Ember** (`Ember452`), a developer interested in **agents and frameworks**, **backend engineering**, and **software architecture**.
 
 > What's gone in the east is lost; it's never too late to reap in the west.
 
-- 🔭 Currently building **[questor](https://github.com/Ember452/questor)** and **[baldric](https://github.com/Ember452/baldric)**.
-- 🧠 Interested in agent architecture, tool protocols, durable sessions, and terminal/TUI UX.
-- 🌱 Exploring Tauri v2, Textual, and LLM security.
-- 💬 Ask me about Python, agent harness design, or CLI/TUI engineering.
+- 🧠 Exploring agents, agent frameworks, and the design behind them.
+- 🏗️ Interested in backend systems and software architecture.
+- 🌱 Continuously learning and improving.
+- 💬 Ask me about Python, agent frameworks, or backend architecture.
 - 📫 Reach me at [3783709121@qq.com](mailto:3783709121@qq.com).
 
 ## 🛠 Tech Stack
