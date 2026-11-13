@@ -45,41 +45,23 @@ I'm **ZhenHao Jiao** (`Ember452`), a builder focused on **agent harnesses** — 
 - **Small kernel, pluggable policy** — keep the core readable.
 - **Durable** — sessions should survive restarts.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ember452&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ember452&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ember452&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ember452&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" width="100%" alt="Activity graph" />
-</div>
-
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Ember452/baldric">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ember452&repo=baldric&theme=tokyonight&hide_border=true&bg_color=00000000" alt="baldric" />
-  </a>
-  <a href="https://github.com/Ember452/questor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ember452&repo=questor&theme=tokyonight&hide_border=true&bg_color=00000000" alt="questor" />
-  </a>
-</div>
+<a href="https://github.com/Ember452/baldric">
+  <img src="https://opengraph.githubassets.com/1/Ember452/baldric" alt="baldric" width="100%" />
+</a>
 
-### [baldric](https://github.com/Ember452/baldric)
-
-A small, readable coding-agent harness in Python: provider-neutral streaming, typed tools/events, durable JSONL sessions, extensions, and a Textual TUI.
+**baldric** — A readable coding-agent harness you can study, extend, and run in the terminal.
 
 `Python` `Textual` `OpenAI` `CLI`
 
-### [questor](https://github.com/Ember452/questor)
+<br/>
 
-A local-first, self-built agent harness: an 8-layer enforced architecture, event-sourced resumable state, pluggable agent policy, and BYOM via LiteLLM. Desktop (Tauri v2) + CLI + OpenAI-compatible API.
+<a href="https://github.com/Ember452/questor">
+  <img src="https://opengraph.githubassets.com/1/Ember452/questor" alt="questor" width="100%" />
+</a>
+
+**questor** — A local-first agent harness built around durable state, pluggable policy, and BYOM.
 
 `Python` `Tauri v2` `LiteLLM` `Event Sourcing`
 
